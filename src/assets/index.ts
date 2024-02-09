@@ -1,0 +1,1 @@
+export {default as qrCode} from "./image-qr-code.png"
