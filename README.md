@@ -32,11 +32,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 I'm going to keep doing these challenges until I have the confidence and practice to make good designs.
 
+### Useful resources
+
+- [Demystifying the Folder Structure of a React App](https://medium.com/swlh/demystifying-the-folder-structure-of-a-react-app-c60b29d90836) - This helped me to have a more understandable structure for when projects get long.
+- [Guide to the Atomic File Structure in React](https://medium.com/@simo-dlamini/a-friendly-guide-to-the-atomic-file-structure-in-react-8bd33e55361c) - This is an amazing article that helped me finally know how to implement pattern design like the compuond component and extensible styles pattern. I'd recommend it to anyone still learning this concept. I really liked this pattern and will use it going forward.
+
 
 ## Author
 
 - Website - [Luis Agreda](https://luisagredadev.vercel.app/)
 - Frontend Mentor - [@AgredaLuis](https://www.frontendmentor.io/profile/@AgredaLuis)
 - Linkedin - [Luis Agreda](https://www.linkedin.com/in/luisagreda/)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**

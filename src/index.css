@@ -24,3 +24,7 @@ body{
 .attribution a{
   color: hsl(228, 45%, 44%);
 }
+
+.attribution a:hover{
+  color: hsl(218, 44%, 22%);
+}
