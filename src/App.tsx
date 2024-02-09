@@ -10,7 +10,7 @@ function App() {
         <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">
           Frontend Mentor
         </a>
-        . Coded by <a href="#">LuisAgreda</a>.
+        . Coded by <a href="https://www.frontendmentor.io/profile/AgredaLuis" target="_blank">LuisAgreda</a>.
       </div>
     </main>
   );
